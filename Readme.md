@@ -6,8 +6,10 @@ LED bulbs from a 12V power supply or 12V battery.
 This is the first prototype build using the [LTC3723](https://www.analog.com/media/en/technical-documentation/data-sheets/372312f.pdf).
 
 It features:
-- Up to 24 Watts
+- Up to 32 Watts
 - LC input filter
+- Soft-start
+- 3 Amps input current limit
 - Galvanic isolation
 - Adjustable output voltage (for development only)
 
