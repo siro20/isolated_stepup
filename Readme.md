@@ -17,9 +17,8 @@ It features:
 
 ## Analysis
 
-** Warning: ** This version has the following issues on the PCB:
-- U1 has the wrong package (SOIC-16 instead of SSOP-16)
-- D4 and D5 have the wrong pinout
+Measured results of version `0.2`.
+- [soft-start](doc/softstart.md)
 
 ## Schematics
 
